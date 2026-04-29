@@ -16,8 +16,9 @@ uv pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2
 # Install dependencies
 uv pip install opencv-python imageio decord pycocoevalcap wandb datasets
 conda install openjdk=8 -y  # for pycocoevalcap
+```
 
 
 ## Data Preparation
-https://drive.google.com/file/d/1NyUCf0jA0B-xfHXH7c5VZZDeEpL_TdzV/view?usp=sharing
+[download](https://drive.google.com/file/d/1NyUCf0jA0B-xfHXH7c5VZZDeEpL_TdzV/view?usp=sharing)
 
