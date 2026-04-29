@@ -20,5 +20,11 @@ conda install openjdk=8 -y  # for pycocoevalcap
 
 
 ## Data Preparation
-[download](https://drive.google.com/file/d/1NyUCf0jA0B-xfHXH7c5VZZDeEpL_TdzV/view?usp=sharing)
+
+# 1. Download datasets and put in document "data"
+
+[Download](https://drive.google.com/file/d/1NyUCf0jA0B-xfHXH7c5VZZDeEpL_TdzV/view?usp=sharing)
+
+# 2. Download pretrained model and put in document "pretrained"
+
 
