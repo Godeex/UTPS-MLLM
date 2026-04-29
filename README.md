@@ -4,16 +4,19 @@
 
 ## Installation
 
+### 1. Create environment
 ```bash
-# Clone the repository
 conda create -n mllm python=3.10 -y
 conda activate mllm
+```
 
-# Install flash-attention (pre-compiled wheel for CUDA 12 + PyTorch 2.6)
+### 2. Install flash-attention (pre-compiled wheel for CUDA 12 + PyTorch 2.6)
+```bash
 uv pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+```
 
-
-# Install dependencies
+### 3. Install dependencies
+```bash
 uv pip install opencv-python imageio decord pycocoevalcap wandb datasets
 conda install openjdk=8 -y  # for pycocoevalcap
 ```
