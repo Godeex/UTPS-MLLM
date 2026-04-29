@@ -1,0 +1,243 @@
+{
+    "language_model.model.layers.0.attention.wo": [
+        1,
+        2
+    ],
+    "language_model.model.layers.0.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.1.attention.wo": [],
+    "language_model.model.layers.1.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.10.attention.wo": [],
+    "language_model.model.layers.10.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.11.attention.wo": [],
+    "language_model.model.layers.11.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.12.attention.wo": [
+        1
+    ],
+    "language_model.model.layers.12.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.13.attention.wo": [],
+    "language_model.model.layers.13.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.14.attention.wo": [],
+    "language_model.model.layers.14.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.15.attention.wo": [],
+    "language_model.model.layers.15.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.16.attention.wo": [],
+    "language_model.model.layers.16.attention.wqkv": [],
+    "language_model.model.layers.17.attention.wo": [],
+    "language_model.model.layers.17.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.18.attention.wo": [],
+    "language_model.model.layers.18.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.19.attention.wo": [],
+    "language_model.model.layers.19.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.2.attention.wo": [],
+    "language_model.model.layers.2.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.20.attention.wo": [],
+    "language_model.model.layers.20.attention.wqkv": [
+        2
+    ],
+    "language_model.model.layers.21.attention.wo": [],
+    "language_model.model.layers.21.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.22.attention.wo": [],
+    "language_model.model.layers.22.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.23.attention.wo": [
+        1,
+        2
+    ],
+    "language_model.model.layers.23.attention.wqkv": [],
+    "language_model.model.layers.3.attention.wo": [],
+    "language_model.model.layers.3.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.4.attention.wo": [
+        1,
+        2
+    ],
+    "language_model.model.layers.4.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.5.attention.wo": [],
+    "language_model.model.layers.5.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.6.attention.wo": [],
+    "language_model.model.layers.6.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.7.attention.wo": [],
+    "language_model.model.layers.7.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.8.attention.wo": [],
+    "language_model.model.layers.8.attention.wqkv": [
+        1,
+        2
+    ],
+    "language_model.model.layers.9.attention.wo": [],
+    "language_model.model.layers.9.attention.wqkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.0.attn.proj": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.0.attn.qkv": [],
+    "vision_model.encoder.layers.1.attn.proj": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.1.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.10.attn.proj": [],
+    "vision_model.encoder.layers.10.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.11.attn.proj": [],
+    "vision_model.encoder.layers.11.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.12.attn.proj": [],
+    "vision_model.encoder.layers.12.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.13.attn.proj": [],
+    "vision_model.encoder.layers.13.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.14.attn.proj": [],
+    "vision_model.encoder.layers.14.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.15.attn.proj": [],
+    "vision_model.encoder.layers.15.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.16.attn.proj": [],
+    "vision_model.encoder.layers.16.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.17.attn.proj": [],
+    "vision_model.encoder.layers.17.attn.qkv": [],
+    "vision_model.encoder.layers.18.attn.proj": [],
+    "vision_model.encoder.layers.18.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.19.attn.proj": [],
+    "vision_model.encoder.layers.19.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.2.attn.proj": [],
+    "vision_model.encoder.layers.2.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.20.attn.proj": [],
+    "vision_model.encoder.layers.20.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.21.attn.proj": [],
+    "vision_model.encoder.layers.21.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.22.attn.proj": [],
+    "vision_model.encoder.layers.22.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.23.attn.proj": [],
+    "vision_model.encoder.layers.23.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.3.attn.proj": [],
+    "vision_model.encoder.layers.3.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.4.attn.proj": [],
+    "vision_model.encoder.layers.4.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.5.attn.proj": [],
+    "vision_model.encoder.layers.5.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.6.attn.proj": [],
+    "vision_model.encoder.layers.6.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.7.attn.proj": [],
+    "vision_model.encoder.layers.7.attn.qkv": [],
+    "vision_model.encoder.layers.8.attn.proj": [],
+    "vision_model.encoder.layers.8.attn.qkv": [
+        1,
+        2
+    ],
+    "vision_model.encoder.layers.9.attn.proj": [],
+    "vision_model.encoder.layers.9.attn.qkv": [
+        1,
+        2
+    ]
+}
